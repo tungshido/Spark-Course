@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80d709da-5afa-4e87-a657-2f1bec89e08a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SparkCourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fakefriends.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/friends-by-age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/allbut.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/mku.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.genre" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.item" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.occupation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u1.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u1.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u2.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u2.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u3.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u3.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u4.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u4.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u5.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u5.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ua.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ua.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ub.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ub.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings-counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577762321562</updated>
       <workItem from="1577762322856" duration="15430000" />
-      <workItem from="1577951258052" duration="8516000" />
+      <workItem from="1577951258052" duration="8664000" />
     </task>
     <servers />
   </component>
